@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzdc+Lv4ONVcQi+eukyXOjR/dFcB+x+sJ32BkapBzB5rOYIYTQmYsdTSjWSYI/ZJ7DmhWMEj7FfdwMAWTvcYUg==",
+  "success": true,
+  "projectFilePath": "D:\\My Projects\\GoogleSheets_1\\GoogleSheets_1\\GoogleSheets_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayal\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\google.apis.sheets.v4\\1.57.0.2826\\google.apis.sheets.v4.1.57.0.2826.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\jayal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
